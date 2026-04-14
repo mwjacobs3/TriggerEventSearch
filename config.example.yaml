@@ -955,6 +955,67 @@ sources:
 
     # PE News - disabled (401 requires auth)
 
+    # Additional PE-focused publications
+    - name: "Private Equity International"
+      url: "https://www.privateequityinternational.com/feed/"
+      enabled: true
+
+    - name: "PERE (PE Real Estate)"
+      url: "https://www.perenews.com/feed/"
+      enabled: true
+
+    - name: "Infrastructure Investor"
+      url: "https://www.infrastructureinvestor.com/feed/"
+      enabled: true
+
+    - name: "Private Debt Investor"
+      url: "https://www.privatedebtinvestor.com/feed/"
+      enabled: true
+
+    - name: "Secondaries Investor"
+      url: "https://www.secondariesinvestor.com/feed/"
+      enabled: true
+
+    - name: "Private Funds CFO"
+      url: "https://www.privatefundscfo.com/feed/"
+      enabled: true
+
+    - name: "Private Equity Wire"
+      url: "https://www.privateequitywire.co.uk/feed"
+      enabled: true
+
+    - name: "AltAssets"
+      url: "https://www.altassets.net/feed"
+      enabled: true
+
+    - name: "Axios Pro Rata (Deals)"
+      url: "https://api.axios.com/feed/pro-rata"
+      enabled: true
+
+    - name: "The Middle Market (ACG)"
+      url: "https://www.themiddlemarket.com/feed"
+      enabled: true
+
+    - name: "Axial Forum (Lower Middle Market M&A)"
+      url: "https://www.axial.net/forum/feed/"
+      enabled: true
+
+    - name: "PitchBook News"
+      url: "https://pitchbook.com/news/rss"
+      enabled: true
+
+    - name: "Fortune Term Sheet"
+      url: "https://fortune.com/tag/term-sheet/feed/"
+      enabled: true
+
+    - name: "Dealreporter (Mergermarket)"
+      url: "https://www.mergermarket.com/rss/all"
+      enabled: true
+
+    - name: "PE Stack"
+      url: "https://pestack.com/feed/"
+      enabled: true
+
     # Healthcare sources
     - name: "Fierce Healthcare"
       url: "https://www.fiercehealthcare.com/rss/xml"
